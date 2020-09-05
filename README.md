@@ -1,16 +1,15 @@
-### Hi there 👋
+# Images in ReadMe
 
-<!--
-**nandjatt/nandjatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](images/IMG_2586.jpg)
 
-Here are some ideas to get you started:
+![](images/fiska.jpg.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](images/lights.jpg.jpg)
+
+![](images/matlagning.jpg.jpg)
+
+![](images/mountains.jpg.jpg)
+
+![](images/nature.jpg.jpg)
+
+![](images/resa.jpg.jpg)
